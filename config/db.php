@@ -2,7 +2,7 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=localhost;dbname=online_feedback_system',
+    'dsn' => 'mysql:host=localhost;dbname=student_feedback_system',
     'username' => 'root',
     'password' => '',
     'charset' => 'utf8',
